@@ -38,8 +38,3 @@ DELETE `/api/v1/requests/{request_id}`
 GET `/api/v1/external/posts/{post_id}`
 
 External API: JSONPlaceholder.
-
-## Interview topics to understand
-FastAPI, REST, HTTP methods/status codes, JWT and bearer tokens, authentication vs authorization, SQLAlchemy, MySQL, Pydantic validation, external API calls, error handling, and environment variables.
-
-**Important:** Run and test this project and understand the code before presenting it in an interview.
